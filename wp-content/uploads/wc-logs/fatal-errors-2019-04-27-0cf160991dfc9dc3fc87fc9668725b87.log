@@ -1,0 +1,62 @@
+2019-04-27T05:49:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-content\plugins\ml-slider\inc\slide\metaslide.image.class.php on line 3
+
+2019-04-27T05:49:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-admin\custom-header.php on line 14
+
+2019-04-27T07:50:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-27T07:50:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-27T07:53:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\wp-db.php on line 2007
+
+2019-04-27T08:36:42+00:00 CRITICAL Uncaught Error: Call to a member function get_field_props() on null in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php:62
+Stack trace:
+#0 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-template-manager.php(130): Weforms_Donation_Form->get_form_fields()
+#1 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-ajax.php(337): WeForms_Template_Manager->create('donation_form')
+#2 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(286): WeForms_Ajax->create_form_from_template('')
+#3 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 D:\xampp\htdocs\dispar\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\dispar\wp-admin\admin-ajax.php(167): do_action('wp_ajax_weforms...')
+#6 {main}
+  thrown in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php on line 62
+
+2019-04-27T08:36:57+00:00 CRITICAL Uncaught Error: Call to a member function get_field_props() on null in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php:62
+Stack trace:
+#0 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-template-manager.php(130): Weforms_Donation_Form->get_form_fields()
+#1 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-ajax.php(337): WeForms_Template_Manager->create('donation_form')
+#2 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(286): WeForms_Ajax->create_form_from_template('')
+#3 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 D:\xampp\htdocs\dispar\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\dispar\wp-admin\admin-ajax.php(167): do_action('wp_ajax_weforms...')
+#6 {main}
+  thrown in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php on line 62
+
+2019-04-27T08:37:00+00:00 CRITICAL Uncaught Error: Call to a member function get_field_props() on null in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php:62
+Stack trace:
+#0 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-template-manager.php(130): Weforms_Donation_Form->get_form_fields()
+#1 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-ajax.php(337): WeForms_Template_Manager->create('donation_form')
+#2 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(286): WeForms_Ajax->create_form_from_template('')
+#3 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 D:\xampp\htdocs\dispar\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\dispar\wp-admin\admin-ajax.php(167): do_action('wp_ajax_weforms...')
+#6 {main}
+  thrown in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php on line 62
+
+2019-04-27T08:37:07+00:00 CRITICAL Uncaught Error: Call to a member function get_field_props() on null in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php:62
+Stack trace:
+#0 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-template-manager.php(130): Weforms_Donation_Form->get_form_fields()
+#1 D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\class-ajax.php(337): WeForms_Template_Manager->create('donation_form')
+#2 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(286): WeForms_Ajax->create_form_from_template('')
+#3 D:\xampp\htdocs\dispar\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 D:\xampp\htdocs\dispar\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\dispar\wp-admin\admin-ajax.php(167): do_action('wp_ajax_weforms...')
+#6 {main}
+  thrown in D:\xampp\htdocs\dispar\wp-content\plugins\weforms\includes\templates\class-template-donation-form.php on line 62
+
+2019-04-27T11:08:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\wp-db.php on line 2007
+
+2019-04-27T11:08:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\wp-db.php on line 2007
+
+2019-04-27T13:22:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-content\plugins\indonesian-banks-for-woocommerce-free-version\banks\settings.php on line 3
+
+2019-04-27T13:23:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-content\plugins\one-click-demo-import\vendor\proteusthemes\wp-content-importer-v2\src\WXRImporter.php on line 4
+

@@ -1,0 +1,12 @@
+2019-04-29T06:38:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-29T07:17:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-content\plugins\weglot\src\services\class-translate-json-service.php on line 5
+
+2019-04-29T10:50:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-29T10:51:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-29T15:33:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\functions.php on line 5462
+
+2019-04-29T23:35:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\dispar\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
